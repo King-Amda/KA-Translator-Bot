@@ -56,5 +56,5 @@ python3 main.py
 - [Google Translator](https://translate.google.com)
   
 ## Developer
-  [![King Amda](https://github.com/King-Amda.png?size=100) ] (https://github.com/King-Amda)
+  ![King Amda](https://github.com/King-Amda.png?size=100)
 
